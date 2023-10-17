@@ -1,6 +1,6 @@
 
-<div align="start">  Hi there 👋 Welcome to my github page. </div>
-<div align="start">   Welcome to my github page. </div>
+<h1 align="start">  Hi there 👋 Welcome to my github page. </h1>
+<br />
 
 
 
