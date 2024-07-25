@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=june9999" alt="june9999" /></a> </p>
 
-- 🔭 I’m currently working on **hailinSite**, **ticketing-docker**
+- 🔭 I’m currently working on **hailinSite**
 
-- 🌱 I’m currently learning **Kubenetes, AWS, data structure**
+- 🌱 I’m currently learning **, AWS, data structure**
 
 - 💬 Ask me about **react , typerscript**
 
