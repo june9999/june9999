@@ -5,8 +5,7 @@
 
 
 - 🔭 I’m currently working on **hailinSite**
-- 🌱 I’m currently learning **Flutter
-- 💬 Ask me about **react , typerscript**
+- 🌱 I’m currently learning **react , typerscript**
 
 **📫 How to reach me:**
 - **E-mail：** wenjunxue@web.de**
