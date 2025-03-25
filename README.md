@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **hailinSite**
+- 🔭 I’m currently learning on **Network**
 - 🌱 I’m currently learning **react , typerscript**
 
 **📫 How to reach me:**
