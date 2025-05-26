@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently learning on **Network, Design Pattern**
+- 🔭 I’m currently learning on **Clean Code**
 - 🌱 I’m currently learning **react , typerscript**
 
 **📫 How to reach me:**
